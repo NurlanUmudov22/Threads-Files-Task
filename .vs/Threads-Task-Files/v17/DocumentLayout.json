@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nurlanmu\\Desktop\\C#\\Threads-Task-Files\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F16D3CB-1F44-4F1E-8296-B3874D9655B6}|Threads-Task-Files\\Threads-Task-Files.csproj|c:\\users\\nurlanmu\\desktop\\c#\\threads-task-files\\threads-task-files\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F16D3CB-1F44-4F1E-8296-B3874D9655B6}|Threads-Task-Files\\Threads-Task-Files.csproj|solutionrelative:threads-task-files\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F16D3CB-1F44-4F1E-8296-B3874D9655B6}|Threads-Task-Files\\Threads-Task-Files.csproj|c:\\users\\nurlanmu\\desktop\\c#\\threads-task-files\\threads-task-files\\services\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F16D3CB-1F44-4F1E-8296-B3874D9655B6}|Threads-Task-Files\\Threads-Task-Files.csproj|solutionrelative:threads-task-files\\services\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F16D3CB-1F44-4F1E-8296-B3874D9655B6}|Threads-Task-Files\\Threads-Task-Files.csproj|c:\\users\\nurlanmu\\desktop\\c#\\threads-task-files\\threads-task-files\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F16D3CB-1F44-4F1E-8296-B3874D9655B6}|Threads-Task-Files\\Threads-Task-Files.csproj|solutionrelative:threads-task-files\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F16D3CB-1F44-4F1E-8296-B3874D9655B6}|Threads-Task-Files\\Threads-Task-Files.csproj|c:\\users\\nurlanmu\\desktop\\c#\\threads-task-files\\threads-task-files\\extensions\\fileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F16D3CB-1F44-4F1E-8296-B3874D9655B6}|Threads-Task-Files\\Threads-Task-Files.csproj|solutionrelative:threads-task-files\\extensions\\fileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F16D3CB-1F44-4F1E-8296-B3874D9655B6}|Threads-Task-Files\\Threads-Task-Files.csproj|c:\\users\\nurlanmu\\desktop\\c#\\threads-task-files\\threads-task-files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F16D3CB-1F44-4F1E-8296-B3874D9655B6}|Threads-Task-Files\\Threads-Task-Files.csproj|solutionrelative:threads-task-files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\nurlanmu\\Desktop\\C#\\Threads-Task-Files\\Threads-Task-Files\\Extensions\\FileExtensions.cs",
+              "RelativeDocumentMoniker": "Threads-Task-Files\\Extensions\\FileExtensions.cs",
+              "ToolTip": "C:\\Users\\nurlanmu\\Desktop\\C#\\Threads-Task-Files\\Threads-Task-Files\\Extensions\\FileExtensions.cs",
+              "RelativeToolTip": "Threads-Task-Files\\Extensions\\FileExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:25:35.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\nurlanmu\\Desktop\\C#\\Threads-Task-Files\\Threads-Task-Files\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "Threads-Task-Files\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\nurlanmu\\Desktop\\C#\\Threads-Task-Files\\Threads-Task-Files\\Controllers\\FileController.cs",
+              "RelativeToolTip": "Threads-Task-Files\\Controllers\\FileController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwDYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:38:45.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\nurlanmu\\Desktop\\C#\\Threads-Task-Files\\Threads-Task-Files\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "Threads-Task-Files\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\nurlanmu\\Desktop\\C#\\Threads-Task-Files\\Threads-Task-Files\\Services\\FileService.cs",
+              "RelativeToolTip": "Threads-Task-Files\\Services\\FileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:12:58.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\nurlanmu\\Desktop\\C#\\Threads-Task-Files\\Threads-Task-Files\\Services\\Interfaces\\IFileService.cs",
+              "RelativeDocumentMoniker": "Threads-Task-Files\\Services\\Interfaces\\IFileService.cs",
+              "ToolTip": "C:\\Users\\nurlanmu\\Desktop\\C#\\Threads-Task-Files\\Threads-Task-Files\\Services\\Interfaces\\IFileService.cs",
+              "RelativeToolTip": "Threads-Task-Files\\Services\\Interfaces\\IFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:05:30.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nurlanmu\\Desktop\\C#\\Threads-Task-Files\\Threads-Task-Files\\Program.cs",
+              "RelativeDocumentMoniker": "Threads-Task-Files\\Program.cs",
+              "ToolTip": "C:\\Users\\nurlanmu\\Desktop\\C#\\Threads-Task-Files\\Threads-Task-Files\\Program.cs",
+              "RelativeToolTip": "Threads-Task-Files\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:08:36.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

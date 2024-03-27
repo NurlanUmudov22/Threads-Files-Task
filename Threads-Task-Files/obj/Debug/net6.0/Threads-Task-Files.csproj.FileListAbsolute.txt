@@ -1,0 +1,14 @@
+C:\Users\nurlanmu\Desktop\C#\Threads-Task-Files\Threads-Task-Files\bin\Debug\net6.0\Threads-Task-Files.exe
+C:\Users\nurlanmu\Desktop\C#\Threads-Task-Files\Threads-Task-Files\bin\Debug\net6.0\Threads-Task-Files.deps.json
+C:\Users\nurlanmu\Desktop\C#\Threads-Task-Files\Threads-Task-Files\bin\Debug\net6.0\Threads-Task-Files.runtimeconfig.json
+C:\Users\nurlanmu\Desktop\C#\Threads-Task-Files\Threads-Task-Files\bin\Debug\net6.0\Threads-Task-Files.dll
+C:\Users\nurlanmu\Desktop\C#\Threads-Task-Files\Threads-Task-Files\bin\Debug\net6.0\Threads-Task-Files.pdb
+C:\Users\nurlanmu\Desktop\C#\Threads-Task-Files\Threads-Task-Files\obj\Debug\net6.0\Threads-Task-Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurlanmu\Desktop\C#\Threads-Task-Files\Threads-Task-Files\obj\Debug\net6.0\Threads-Task-Files.AssemblyInfoInputs.cache
+C:\Users\nurlanmu\Desktop\C#\Threads-Task-Files\Threads-Task-Files\obj\Debug\net6.0\Threads-Task-Files.AssemblyInfo.cs
+C:\Users\nurlanmu\Desktop\C#\Threads-Task-Files\Threads-Task-Files\obj\Debug\net6.0\Threads-Task-Files.csproj.CoreCompileInputs.cache
+C:\Users\nurlanmu\Desktop\C#\Threads-Task-Files\Threads-Task-Files\obj\Debug\net6.0\Threads-Task-Files.dll
+C:\Users\nurlanmu\Desktop\C#\Threads-Task-Files\Threads-Task-Files\obj\Debug\net6.0\refint\Threads-Task-Files.dll
+C:\Users\nurlanmu\Desktop\C#\Threads-Task-Files\Threads-Task-Files\obj\Debug\net6.0\Threads-Task-Files.pdb
+C:\Users\nurlanmu\Desktop\C#\Threads-Task-Files\Threads-Task-Files\obj\Debug\net6.0\Threads-Task-Files.genruntimeconfig.cache
+C:\Users\nurlanmu\Desktop\C#\Threads-Task-Files\Threads-Task-Files\obj\Debug\net6.0\ref\Threads-Task-Files.dll
